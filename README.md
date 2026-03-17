@@ -2,6 +2,7 @@
 
 ([https://img.shields.io/badge/Agent--Ready-AGENTS.md-blue](https://www.google.com/search?q=https://img.shields.io/badge/Agent--Ready-AGENTS.md-blue))](AGENTS.md)
 [](https://modelcontextprotocol.io)
+
 ([https://img.shields.io/badge/License-MIT-yellow.svg](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow.svg))]([https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT))
 
 > **Context-aware multiagent architecture (LangGraph + MCP) for safe decision support in tropical agriculture.**

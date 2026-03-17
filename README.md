@@ -1,4 +1,4 @@
-\`\# 🌱 AgroEdge-AI
+# 🌱 AgroEdge-AI
 
 ([https://img.shields.io/badge/Agent--Ready-AGENTS.md-blue](https://www.google.com/search?q=https://img.shields.io/badge/Agent--Ready-AGENTS.md-blue))](AGENTS.md)
 [](https://modelcontextprotocol.io)
@@ -40,11 +40,11 @@ This project is strategically aligned with the global transition towards sustain
 ### Installation
 
 1.  Clone the repository:bash
-    git clone [https://github.com/rafaeumesmo/AgroEdge-AI.git](https://www.google.com/search?q=https://github.com/rafaeumesmo/AgroEdge-AI.git)
+    git clone [https://github.com/rafaeumesmo/AgroEdge-AI](https://github.com/rafaeumesmo/AgroEdge-AI)
     cd AgroEdge-AI
 
 <!-- end list -->
-
+https://github.com/rafaeumesmo/AgroEdge-AI
 ````
 
 2. Set up the environment and install dependencies:

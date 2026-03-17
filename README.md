@@ -1,7 +1,5 @@
 # 🌱 AgroEdge-AI
 
-# 🌱 AgroEdge-AI
-
 [![Agent Ready](https://img.shields.io/badge/Agent--Ready-AGENTS.md-blue)](AGENTS.md)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
